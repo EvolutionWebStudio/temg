@@ -29,7 +29,7 @@ runtime
 # configuration files
 /protected/config/main.ilija.php
 /protected/config/main.golub.php
-/protected/config/local.php
+/protected/config/console.php
 
 
 
